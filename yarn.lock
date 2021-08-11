@@ -946,6 +946,11 @@
     eslint-plugin-react-native "3.6.0"
     prettier "1.16.4"
 
+"@react-native-community/image-editor@^2.1.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@react-native-community/image-editor/-/image-editor-2.3.0.tgz#8ac6c3691fd2c762d2abeb84c01a3b201bac3b1e"
+  integrity sha512-+UJY8WkTkfSkjoU5blQnEI7tTg11jJLoM+YojjiQpEopUaRlYQU4SZ9Zd6F6wWfvc9bjvIeMY6FlKuESK/q4fQ==
+
 "@types/babel__core@^7.1.0":
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/@types/babel__core/-/babel__core-7.1.3.tgz#e441ea7df63cd080dfcd02ab199e6d16a735fc30"
@@ -5052,9 +5057,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-type@^2.0.0:
   version "2.0.0"
@@ -5253,6 +5258,18 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   version "16.11.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.11.0.tgz#b85dfecd48ad1ce469ff558a882ca8e8313928fa"
   integrity sha512-gbBVYR2p8mnriqAwWx9LbuUrShnAuSCNnuPGyc7GJrMVQtPDAh8iLpv7FRuMPFb56KkaVZIYSz1PrjI9q0QPCw==
+
+react-native-camera@^3.9.0:
+  version "3.44.3"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-3.44.3.tgz#f8f35f2484e508b0694dee54a8801a1e0833d851"
+  integrity sha512-Efb5aKhFsE7qnqvTnbSEwFAom79L5BT4jMn+B2wYVUnZeRgWh45gNSG7Ou3MQ6zU2DpUHBPlBFKGVS5yOSfSZQ==
+  dependencies:
+    prop-types "^15.6.2"
+
+react-native-fast-image@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-fast-image/-/react-native-fast-image-7.0.2.tgz#e06b21f42f4a9786eaa86f3db35d919070fb8403"
+  integrity sha512-MfuzJbC0RjYobR2gFCdqe1I7jvNOCfDkjQ7VGOHXniqjohhULMkcWNBE9Umovi9Dx93lJ6t5utcE2wf/09zvlg==
 
 react-native@0.61.4:
   version "0.61.4"
